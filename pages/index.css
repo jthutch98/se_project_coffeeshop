@@ -82,7 +82,7 @@
   font-family: "Noto Serif", "Times New Roman", sans-serif;
   font-size: 20px;
   line-height: 30px;
-  margin-block-end: 20px 0 0;
+  margin: 20px 0 0;
 }
 
 .header__image {
