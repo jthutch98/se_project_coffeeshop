@@ -46,7 +46,7 @@
   text-decoration: none;
   font-family: "Inter", Arial, sans-serif;
   font-size: 16px;
-  font-weight: 20px;
+  line-height: 20px;
   display: flex;
   align-items: center;
   margin: 0 0 16px;
@@ -70,6 +70,6 @@
 .footer__copyright {
   font-family: "Inter", Arial, sans-serif;
   font-size: 16px;
-  font-weight: 20px;
+  line-height: 20px;
   margin: 108px 0 0;
 }
